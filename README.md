@@ -6,7 +6,8 @@
 
 ## Status
 
-[![Loinver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loinver)](https://github.com/anuraghazra/github-readme-stats)
+[![Loinver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loinver&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ## My partial repository

@@ -8,18 +8,10 @@
 
 [![Loinver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loinver&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
 ## My partial repository
 
-|[element-admin](https://github.com/Loinver/element-admin)|[vue-element-admin](https://github.com/Loinver/vue-element-admin)|[WebTpl-admin](https://github.com/Loinver/WebTpl-admin)|
-|:---:|:---:|:---:|
-
-## Readme
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=element-admin)](https://github.com/anuraghazra/github-readme-stats)
-
-## Contact
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=element-admin)](https://github.com/Loinver/element-admin)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=WebTpl-admin)](https://github.com/Loinver/WebTpl-admin)
 
 ## Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loinver)](https://github.com/anuraghazra/github-readme-stats)

@@ -17,7 +17,7 @@
 
 ## Readme
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=element-admin)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Contact
 

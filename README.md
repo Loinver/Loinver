@@ -13,6 +13,7 @@
 ## My partial repository
 
 |[element-admin](https://github.com/Loinver/element-admin)|[vue-element-admin](https://github.com/Loinver/vue-element-admin)|[WebTpl-admin](https://github.com/Loinver/WebTpl-admin)|
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 |:---:|:---:|:---:|
 ## Contact
 

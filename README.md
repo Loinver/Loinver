@@ -16,6 +16,7 @@
 |:---:|:---:|:---:|
 ## Contact
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loinver)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Visitors
 

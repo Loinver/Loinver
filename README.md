@@ -6,7 +6,7 @@
 
 ## Status
 
-[![Loinver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loinver&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Loinver's GitHub stats](https://github-readme-stats.vercel.app/api?username=Loinver&show_icons=true&theme=radical)](https://github.com/Loinver)
 
 ## My partial repository
 
@@ -14,7 +14,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Loinver&repo=WebTpl-admin)](https://github.com/Loinver/WebTpl-admin)
 
 ## Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loinver)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Loinver)](https://github.com/Loinver)
 
 ## Visitors
 
